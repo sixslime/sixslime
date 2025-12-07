@@ -9,4 +9,6 @@
 ```
 Hi, Thanks for clicking.
 I hope you enjoy underdocumented projects; I certainly enjoy making them.
+
+See org. 'sixslimemc' for my Minecraft related work.
 ```
