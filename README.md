@@ -7,7 +7,7 @@
 ╰──────────────────────────────────────────╯
 ```
 ```
-Hi, Thanks for clicking.
+Thanks for your click.
 
 See org. 'sixslimemc' for my Minecraft related work.
 ```
