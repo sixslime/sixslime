@@ -7,5 +7,5 @@
 ╰──────────────────────────────────────────╯
 ```
 ```
-Thanks for your click.
+Take my enthusiasm, it's all I have.
 ```
