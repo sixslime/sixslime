@@ -9,5 +9,5 @@
 ```
 Thanks for your click.
 
-See org. 'sixslimemc' for Minecraft related things.
+See org. 'sixslimemc' for Minecraft/datapack related things.
 ```
