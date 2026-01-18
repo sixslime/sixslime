@@ -9,5 +9,5 @@
 ```
 Thanks for your click.
 
-See org. 'sixslimemc' for my Minecraft related work.
+See org. 'sixslimemc' for Minecraft related things.
 ```
