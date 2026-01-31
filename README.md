@@ -12,5 +12,5 @@
 "Have you tried using AI"
 "You don't even need a degree"
 "Have you tried applying for internships"
-"You don't need to fit *all* the requirements"
+"You don't need to fit all the requirements"
 ```
