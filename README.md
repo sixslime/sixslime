@@ -10,7 +10,7 @@
 ```
 "You just have to stand out"
 "You don't even need a degree"
-"Have you tried using AI"
 "Have you tried applying for internships"
 "You don't need to fit *all* the requirements"
+"Have you tried using AI"
 ```
