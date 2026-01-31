@@ -11,6 +11,6 @@
 "You just have to stand out"
 "You don't even need a degree"
 "Have you tried using AI"
-"You should try applying for internships"
-"Apply even if you don't fit all the requirements"
+"Have you tried applying for internships"
+"You don't need to fit *all* the requirements"
 ```
