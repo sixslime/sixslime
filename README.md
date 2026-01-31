@@ -7,8 +7,8 @@
 ╰──────────────────────────────────────────╯
 ```
 ```
-"You'll make so much money!"
-"Just master the fundamentals!"
-"You just have to stand out!"
-"You don't even need a degree!"
+"You'll make so much money"
+"Just master the fundamentals"
+"You just have to stand out"
+"You don't even need a degree"
 ```
