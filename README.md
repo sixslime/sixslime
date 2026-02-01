@@ -20,8 +20,8 @@
 │   ├── media
 │   │   ├── games
 │   │   │   ├── active
-│   │   │   │   ├── minecraft.game
 │   │   │   │   ├── league_of_legends.game
+│   │   │   │   ├── minecraft.game
 │   │   │   │   └── balatro.game
 │   │   │   └── inactive
 │   │   │       ├── gems
