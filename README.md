@@ -13,10 +13,10 @@
 │   └── functional_bro.tag
 ├── interests
 │   ├── focus
-│   │   ├── game_design.foc
-│   │   ├── software_tooling.foc
-│   │   ├── ux.foc
-│   │   └── dx.foc
+│   │   ├── game_design.focus
+│   │   ├── software_tooling.focus
+│   │   ├── ux.focus
+│   │   └── dx.focus
 │   ├── media
 │   │   ├── games
 │   │   │   ├── active
