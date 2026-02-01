@@ -11,12 +11,12 @@
 │   ├── rust_enthusiast.tag
 │   ├── terminal_dweller.tag
 │   └── functional_bro.tag
+├── focus
+│   ├── game_design.focus
+│   ├── software_tooling.focus
+│   ├── ux.focus
+│   └── dx.focus
 ├── interests
-│   ├── focus
-│   │   ├── game_design.focus
-│   │   ├── software_tooling.focus
-│   │   ├── ux.focus
-│   │   └── dx.focus
 │   ├── media
 │   │   ├── games
 │   │   │   ├── active
