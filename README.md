@@ -5,18 +5,18 @@
 |_____|_|_,_|_____|_|_|_|_|_|___|
 ```
 ```
-├── descriptors
-│   ├── csharp_abuser.desc
-│   ├── python_victim.desc
-│   ├── rust_enthusiast.desc
-│   ├── terminal_dweller.desc
-│   └── functional_bro.desc
+├── tags
+│   ├── csharp_abuser.tag
+│   ├── python_victim.tag
+│   ├── rust_enthusiast.tag
+│   ├── terminal_dweller.tag
+│   └── functional_bro.tag
 ├── interests
 │   ├── focus
-│   │   ├── game_design.focus
-│   │   ├── software_tooling.focus
-│   │   ├── ux.focus
-│   │   └── dx.focus
+│   │   ├── game_design.foc
+│   │   ├── software_tooling.foc
+│   │   ├── ux.foc
+│   │   └── dx.foc
 │   ├── media
 │   │   ├── music
 │   │   │   ├── genres
@@ -25,14 +25,14 @@
 │   │   │   │   ├── phonk.genre
 │   │   │   │   ├── uk_drill.genre
 │   │   │   │   └── hip_hop.genre
-│   │   │   └── artists
+│   │   │   └── artist_shoutouts
 │   │   │       ├── isoknock
-│   │   │       │   ├── isoxo.artist
-│   │   │       │   └── knock2.artist
-│   │   │       ├── reek_wobs.artist
-│   │   │       ├── s3rl.artist
-│   │   │       ├── space_whales.artist
-│   │   │       └── metro_boomin.artist
+│   │   │       │   ├── isoxo.artm
+│   │   │       │   └── knock2.artm
+│   │   │       ├── reek_wobs.artm
+│   │   │       ├── s3rl.artm
+│   │   │       ├── space_whales.artm
+│   │   │       └── lil_uzi_vert.artm
 │   │   ├── games
 │   │   │   ├── active
 │   │   │   │   ├── minecraft.game
@@ -50,33 +50,33 @@
 │   │   │           ├── pubg.game
 │   │   │           └── terraria.game
 │   │   └── video
-│   │       └── creators
-│   │           ├── exurb1a.creator
-│   │           ├── sylvanfranklin.creator
-│   │           ├── contrapoints.creator
-│   │           ├── philosophy_tube.creator
-│   │           ├── soirilab.creator
-│   │           └── kurosai.creator
+│   │       └── creator_shoutouts
+│   │           ├── exurb1a.yt
+│   │           ├── sylvanfranklin.yt
+│   │           ├── contrapoints.yt
+│   │           ├── philosophy_tube.yt
+│   │           ├── soirilab.yt
+│   │           └── kurosai.yt
 │   └── irl
 │       └── misc
 │           ├── i_drive.real
 │           ├── playing_cards.objgroup
 │           ├── black.color
 │           ├── hexagon.shape
-│           └── techwear.clothing
+│           └── techwear.clot
 ├── software
 │   ├── languages
-│   │   ├── csharp.plg
-│   │   ├── python.plg
-│   │   ├── rust.plg
-│   │   └── mcfunction.plg
+│   │   ├── csharp.plng
+│   │   ├── python.plng
+│   │   ├── rust.plng
+│   │   └── mcfunction.plng
 │   ├── windows.os
 │   ├── nu.shell
 │   ├── powertoys.exe
 │   ├── visual_studio.ide
 │   └── vscode.editor
-└── tags
-    ├── trans_ally.tag
-    ├── neurodivergent.tag
-    ├── ekko_identifier.tag
-    └── semicolon.tag
+└── auxilary
+    ├── trans_rights.id
+    ├── adhd.id
+    ├── go_harder.id
+    └── or_die_trying.id
