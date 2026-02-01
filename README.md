@@ -18,21 +18,6 @@
 │   │   ├── ux.foc
 │   │   └── dx.foc
 │   ├── media
-│   │   ├── music
-│   │   │   ├── genres
-│   │   │   │   ├── trap.genre
-│   │   │   │   ├── hard_edm.genre
-│   │   │   │   ├── phonk.genre
-│   │   │   │   ├── uk_drill.genre
-│   │   │   │   └── hip_hop.genre
-│   │   │   └── artist_shoutouts
-│   │   │       ├── isoknock
-│   │   │       │   ├── isoxo.artm
-│   │   │       │   └── knock2.artm
-│   │   │       ├── reek_wobs.artm
-│   │   │       ├── s3rl.artm
-│   │   │       ├── space_whales.artm
-│   │   │       └── lil_uzi_vert.artm
 │   │   ├── games
 │   │   │   ├── active
 │   │   │   │   ├── minecraft.game
@@ -49,6 +34,21 @@
 │   │   │           ├── rocket_league.game
 │   │   │           ├── pubg.game
 │   │   │           └── terraria.game
+│   │   ├── music
+│   │   │   ├── genres
+│   │   │   │   ├── trap.genre
+│   │   │   │   ├── hard_edm.genre
+│   │   │   │   ├── phonk.genre
+│   │   │   │   ├── uk_drill.genre
+│   │   │   │   └── hip_hop.genre
+│   │   │   └── artist_shoutouts
+│   │   │       ├── isoknock
+│   │   │       │   ├── isoxo.artm
+│   │   │       │   └── knock2.artm
+│   │   │       ├── reek_wobs.artm
+│   │   │       ├── s3rl.artm
+│   │   │       ├── space_whales.artm
+│   │   │       └── lil_uzi_vert.artm
 │   │   └── video
 │   │       └── creator_shoutouts
 │   │           ├── exurb1a.yt
