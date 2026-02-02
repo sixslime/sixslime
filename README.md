@@ -75,8 +75,8 @@
 │   ├── powertoys.exe
 │   ├── visual_studio.ide
 │   └── vscode.editor
-└── auxilary
-    ├── trans_rights.id
+└── id
     ├── adhd.id
+    ├── trans_rights.id
     ├── go_harder.id
     └── or_die_trying.id
