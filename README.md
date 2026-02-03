@@ -27,13 +27,18 @@
 │   │   │       ├── gems
 │   │   │       │   ├── 1000xresist.game
 │   │   │       │   └── superhot.game
-│   │   │       └── well_enjoyed
-│   │   │           ├── apex_legends.game
-│   │   │           ├── osu.game
-│   │   │           ├── terratech.game
-│   │   │           ├── rocket_league.game
-│   │   │           ├── pubg.game
-│   │   │           └── terraria.game
+│   │   │       ├── well_enjoyed
+│   │   │       │   ├── apex_legends.game
+│   │   │       │   ├── osu.game
+│   │   │       │   ├── terratech.game
+│   │   │       │   ├── rocket_league.game
+│   │   │       │   ├── pubg.game
+│   │   │       │   └── terraria.game
+│   │   │       └── indie_shoutouts
+│   │   │           ├── othercide.game
+│   │   │           ├── thumper.game
+│   │   │           ├── spin_ryhthm_xd.game
+│   │   │           └── unbeatable.game
 │   │   ├── music
 │   │   │   ├── genres
 │   │   │   │   ├── trap.genre
