@@ -8,9 +8,9 @@
 ├── tags
 │   ├── csharp_abuser.tag
 │   ├── python_victim.tag
-│   ├── rust_enthusiast.tag
-│   ├── terminal_dweller.tag
-│   └── functional_bro.tag
+│   ├── rust_enjoyer.tag
+│   ├── functional_bro.tag
+│   └── terminal_dweller.tag
 ├── focus
 │   ├── game_design.focus
 │   ├── software_tooling.focus
