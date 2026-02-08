@@ -82,7 +82,7 @@
 │   ├── visual_studio.ide
 │   └── vscode.editor
 └── id
-    ├── adhd.id
+    ├── neurodiversity.id
     ├── trans_rights.id
     ├── go_harder.id
     └── or_die_trying.id
