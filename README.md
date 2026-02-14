@@ -10,7 +10,7 @@
 │   ├── python_victim.tag
 │   ├── rust_enjoyer.tag
 │   ├── functional_bro.tag
-│   └── terminal_dweller.tag
+│   └── terminal_ricer.tag
 ├── focus
 │   ├── game_design.focus
 │   ├── software_tooling.focus
