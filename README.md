@@ -21,11 +21,11 @@
 │   │   │   ├── active
 │   │   │   │   ├── minecraft.game
 │   │   │   │   ├── league_of_legends.game
-│   │   │   │   └── balatro.game
+│   │   │   │   └── osu.game
 │   │   │   ├── inactive
 │   │   │   │   ├── time_sinks
+│   │   │   │   │   ├── balatro.game
 │   │   │   │   │   ├── apex_legends.game
-│   │   │   │   │   ├── osu.game
 │   │   │   │   │   ├── terratech.game
 │   │   │   │   │   ├── rocket_league.game
 │   │   │   │   │   ├── pubg.game
