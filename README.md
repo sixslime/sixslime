@@ -7,14 +7,13 @@
 ```
 ├── tags
 │   ├── csharp_abuser.tag
-│   ├── python_victim.tag
-│   ├── rust_enjoyer.tag
-│   ├── functional_bro.tag
-│   └── terminal_ricer.tag
+│   ├── python_abused.tag
+│   ├── rust_soyjacker.tag
+│   ├── linux_enthusiast.tag
+│   └── frontend_nemesis.tag
 ├── focus
 │   ├── game_design.focus
 │   ├── software_tooling.focus
-│   ├── ux.focus
 │   └── dx.focus
 ├── interests
 │   ├── media
