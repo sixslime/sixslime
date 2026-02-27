@@ -19,9 +19,9 @@
 │   ├── media
 │   │   ├── games
 │   │   │   ├── active
-│   │   │   │   ├── minecraft.game
 │   │   │   │   ├── league_of_legends.game
-│   │   │   │   └── osu.game
+│   │   │   │   ├── osu.game
+│   │   │   │   └── minecraft.game
 │   │   │   ├── inactive
 │   │   │   │   ├── time_sinks
 │   │   │   │   │   ├── balatro.game
