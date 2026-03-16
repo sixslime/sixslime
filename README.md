@@ -12,9 +12,9 @@
 │   ├── linux_enthusiast.tag
 │   └── frontend_nemesis.tag
 ├── focus
-│   ├── game_design.focus
 │   ├── software_tooling.focus
-│   └── dx.focus
+│   ├── dx.focus
+│   └── game_design.focus
 ├── interests
 │   ├── media
 │   │   ├── games
