@@ -30,14 +30,13 @@
 │   │   │   │   │   ├── rocket_league.game
 │   │   │   │   │   ├── pubg.game
 │   │   │   │   │   └── terraria.game
-│   │   │   │   └── well_enjoyed
+│   │   │   │   └── indie_shoutouts
 │   │   │   │       ├── othercide.game
 │   │   │   │       ├── thumper.game
 │   │   │   │       ├── spin_ryhthm_xd.game
 │   │   │   │       └── unbeatable.game
 │   │   │   └── unforgettable
 │   │   │       ├── 1000xresist.game
-│   │   │       │   └── play_it_blind.you
 │   │   │       └── superhot.game
 │   │   ├── music
 │   │   │   ├── genres
