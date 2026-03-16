@@ -22,23 +22,23 @@
 │   │   │   │   ├── deadlock.game
 │   │   │   │   ├── league_of_legends.game
 │   │   │   │   └── minecraft.game
-│   │   │   ├── inactive
-│   │   │   │   ├── time_sinks
-│   │   │   │   │   ├── balatro.game
-│   │   │   │   │   ├── apex_legends.game
-│   │   │   │   │   ├── osu.game
-│   │   │   │   │   ├── terratech.game
-│   │   │   │   │   ├── rocket_league.game
-│   │   │   │   │   ├── pubg.game
-│   │   │   │   │   └── terraria.game
-│   │   │   │   └── indie_shoutouts
-│   │   │   │       ├── othercide.game
-│   │   │   │       ├── thumper.game
-│   │   │   │       ├── spin_ryhthm_xd.game
-│   │   │   │       └── unbeatable.game
-│   │   │   └── unforgettable
-│   │   │       ├── 1000xresist.game
-│   │   │       └── superhot.game
+│   │   │   └── inactive
+│   │   │       ├── unrivaled_experiences
+│   │   │       │   ├── 1000xresist.game
+│   │   │       │   └── superhot.game
+│   │   │       ├── significant_playtime
+│   │   │       │   ├── balatro.game
+│   │   │       │   ├── apex_legends.game
+│   │   │       │   ├── osu.game
+│   │   │       │   ├── terratech.game
+│   │   │       │   ├── rocket_league.game
+│   │   │       │   ├── pubg.game
+│   │   │       │   └── terraria.game
+│   │   │       └── indie_shoutouts
+│   │   │           ├── othercide.game
+│   │   │           ├── thumper.game
+│   │   │           ├── spin_ryhthm_xd.game
+│   │   │           └── unbeatable.game
 │   │   ├── music
 │   │   │   ├── genres
 │   │   │   │   ├── trap.genre
