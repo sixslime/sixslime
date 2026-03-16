@@ -21,12 +21,12 @@
 │   │   │   ├── active
 │   │   │   │   ├── deadlock.game
 │   │   │   │   ├── league_of_legends.game
-│   │   │   │   ├── osu.game
 │   │   │   │   └── minecraft.game
 │   │   │   ├── inactive
 │   │   │   │   ├── time_sinks
 │   │   │   │   │   ├── balatro.game
 │   │   │   │   │   ├── apex_legends.game
+│   │   │   │   │   ├── osu.game
 │   │   │   │   │   ├── terratech.game
 │   │   │   │   │   ├── rocket_league.game
 │   │   │   │   │   ├── pubg.game
