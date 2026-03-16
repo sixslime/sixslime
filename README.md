@@ -19,6 +19,7 @@
 │   ├── media
 │   │   ├── games
 │   │   │   ├── active
+│   │   │   │   ├── deadlock.game
 │   │   │   │   ├── league_of_legends.game
 │   │   │   │   ├── osu.game
 │   │   │   │   └── minecraft.game
