@@ -43,17 +43,15 @@
 │   │   │   ├── genres
 │   │   │   │   ├── trap.genre
 │   │   │   │   ├── hard_edm.genre
-│   │   │   │   ├── phonk.genre
-│   │   │   │   ├── uk_drill.genre
+│   │   │   │   ├── alt_electronic.genre
 │   │   │   │   └── hip_hop.genre
 │   │   │   └── artist_shoutouts
-│   │   │       ├── isoknock
-│   │   │       │   ├── isoxo.artm
-│   │   │       │   └── knock2.artm
+│   │   │       ├── isoxo.artm
+│   │   │       ├── 4ura.artm
 │   │   │       ├── reek_wobs.artm
 │   │   │       ├── s3rl.artm
 │   │   │       ├── space_whales.artm
-│   │   │       └── lil_uzi_vert.artm
+│   │   │       └── future.artm
 │   │   └── video
 │   │       └── creator_shoutouts
 │   │           ├── exurb1a.yt
