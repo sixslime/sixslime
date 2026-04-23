@@ -27,12 +27,12 @@
 │   │   │       │   ├── 1000xresist.game
 │   │   │       │   └── superhot.game
 │   │   │       ├── high_playtime
-│   │   │       │   ├── balatro.game
 │   │   │       │   ├── apex_legends.game
 │   │   │       │   ├── osu.game
-│   │   │       │   ├── terratech.game
+│   │   │       │   ├── balatro.game
 │   │   │       │   ├── rocket_league.game
 │   │   │       │   ├── pubg.game
+│   │   │       │   ├── terratech.game
 │   │   │       │   └── terraria.game
 │   │   │       └── neat
 │   │   │           ├── othercide.game
