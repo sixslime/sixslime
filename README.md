@@ -61,7 +61,7 @@
 │   │           ├── philosophy_tube.yt
 │   │           ├── soirilab.yt
 │   │           └── kurosai.yt
-│   └── misc
+│   └── irl
 │       ├── i_drive.real
 │       ├── 52_card_decks.objgroup
 │       ├── tabletop_games.objgroup
