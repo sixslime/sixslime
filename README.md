@@ -64,7 +64,7 @@
 │   └── irl
 │       ├── i_drive.real
 │       ├── 52_card_decks.objgroup
-│       ├── tabletop_games.objgroup
+│       ├── tabletop_games.actv
 │       ├── black.color
 │       ├── hexagon.shape
 │       └── techwear.clot
