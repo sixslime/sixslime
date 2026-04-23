@@ -23,10 +23,10 @@
 │   │   │   │   ├── league_of_legends.game
 │   │   │   │   └── minecraft.game
 │   │   │   └── inactive
-│   │   │       ├── unrivaled_experiences
+│   │   │       ├── unrivaled
 │   │   │       │   ├── 1000xresist.game
 │   │   │       │   └── superhot.game
-│   │   │       ├── significant_playtime
+│   │   │       ├── high_playtime
 │   │   │       │   ├── balatro.game
 │   │   │       │   ├── apex_legends.game
 │   │   │       │   ├── osu.game
@@ -34,7 +34,7 @@
 │   │   │       │   ├── rocket_league.game
 │   │   │       │   ├── pubg.game
 │   │   │       │   └── terraria.game
-│   │   │       └── indie_shoutouts
+│   │   │       └── neat_indies
 │   │   │           ├── othercide.game
 │   │   │           ├── redout_2.game
 │   │   │           ├── thumper.game
