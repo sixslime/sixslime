@@ -46,12 +46,12 @@
 │   │   │   │   ├── hard_edm.genre
 │   │   │   │   ├── alt_electronic.genre
 │   │   │   │   └── hip_hop.genre
-│   │   │   └── artist_shoutouts
+│   │   │   └── defining_artists
 │   │   │       ├── isoxo.artm
 │   │   │       ├── 4ura.artm
 │   │   │       ├── reek_wobs.artm
 │   │   │       ├── s3rl.artm
-│   │   │       ├── space_whales.artm
+│   │   │       ├── darci.artm
 │   │   │       └── future.artm
 │   │   └── video
 │   │       └── creator_shoutouts
