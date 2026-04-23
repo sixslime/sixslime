@@ -34,7 +34,7 @@
 │   │   │       │   ├── rocket_league.game
 │   │   │       │   ├── pubg.game
 │   │   │       │   └── terraria.game
-│   │   │       └── neat_indies
+│   │   │       └── neat
 │   │   │           ├── othercide.game
 │   │   │           ├── redout_2.game
 │   │   │           ├── thumper.game
