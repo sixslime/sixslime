@@ -61,14 +61,13 @@
 │   │           ├── philosophy_tube.yt
 │   │           ├── soirilab.yt
 │   │           └── kurosai.yt
-│   └── irl
-│       └── misc
-│           ├── i_drive.real
-│           ├── 52_card_decks.objgroup
-│           ├── tabletop_games.objgroup
-│           ├── black.color
-│           ├── hexagon.shape
-│           └── techwear.clot
+│   └── misc
+│       ├── i_drive.real
+│       ├── 52_card_decks.objgroup
+│       ├── tabletop_games.objgroup
+│       ├── black.color
+│       ├── hexagon.shape
+│       └── techwear.clot
 ├── software
 │   ├── languages
 │   │   ├── csharp.plng
