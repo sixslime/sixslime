@@ -63,7 +63,7 @@
 │   │           └── kurosai.yt
 │   └── irl
 │       ├── i_drive.real
-│       ├── 52_card_decks.objgroup
+│       ├── playing_cards.objgroup
 │       ├── tabletop_games.actv
 │       ├── black.color
 │       ├── hexagon.shape
