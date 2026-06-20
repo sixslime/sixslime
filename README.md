@@ -87,5 +87,4 @@
     ├── neurodiversity.id
     ├── trans_rights.id
     ├── go_harder.id
-    ├── or_die_trying.id
-    └── ;.id
+    └── or_die_trying.id
