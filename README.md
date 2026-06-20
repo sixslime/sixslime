@@ -19,23 +19,26 @@
 │   ├── media
 │   │   ├── games
 │   │   │   ├── active
-│   │   │   │   ├── deadlock.game
-│   │   │   │   ├── league_of_legends.game
-│   │   │   │   └── minecraft.game
-│   │   │   └── inactive
+│   │   │   │   ├── minecraft.game
+│   │   │   │   └── league_of_legends.game
+│   │   │   └── archive
 │   │   │       ├── unrivaled
 │   │   │       │   ├── 1000xresist.game
-│   │   │       │   └── superhot.game
+│   │   │       │   └── superhot.series
 │   │   │       ├── high_playtime
+│   │   │       │   ├── minecraft.game
+│   │   │       │   ├── league_of_legends.game
+│   │   │       │   ├── rocket_league.game
+│   │   │       │   ├── pubg.game
+│   │   │       │   ├── terraria.game
 │   │   │       │   ├── apex_legends.game
 │   │   │       │   ├── osu.game
 │   │   │       │   ├── balatro.game
-│   │   │       │   ├── rocket_league.game
-│   │   │       │   ├── pubg.game
-│   │   │       │   ├── terratech.game
-│   │   │       │   └── terraria.game
+│   │   │       │   └── terratech.game
 │   │   │       └── neat
+│   │   │           ├── sektori.game
 │   │   │           ├── othercide.game
+│   │   │           ├── deadlock.game
 │   │   │           ├── redout_2.game
 │   │   │           ├── thumper.game
 │   │   │           ├── spin_ryhthm_xd.game
@@ -46,8 +49,9 @@
 │   │   │   │   ├── hard_edm.genre
 │   │   │   │   ├── alt_electronic.genre
 │   │   │   │   └── hip_hop.genre
-│   │   │   └── defining_artists
+│   │   │   └── artists
 │   │   │       ├── isoxo.artm
+│   │   │       ├── knock2.artm
 │   │   │       ├── 4ura.artm
 │   │   │       ├── reek_wobs.artm
 │   │   │       ├── s3rl.artm
@@ -68,7 +72,7 @@
 │       ├── black.color
 │       ├── hexagon.shape
 │       └── techwear.clot
-├── software
+├── environment
 │   ├── languages
 │   │   ├── csharp.plng
 │   │   ├── python.plng
@@ -83,4 +87,5 @@
     ├── neurodiversity.id
     ├── trans_rights.id
     ├── go_harder.id
-    └── or_die_trying.id
+    ├── or_die_trying.id
+    └── ;.id
