@@ -75,9 +75,9 @@
 ├── environment
 │   ├── languages
 │   │   ├── csharp.plng
-│   │   ├── python.plng
+│   │   ├── mcfunction.plng
 │   │   ├── rust.plng
-│   │   └── mcfunction.plng
+│   │   └── python.plng
 │   ├── windows.os
 │   ├── nu.shell
 │   ├── powertoys.exe
