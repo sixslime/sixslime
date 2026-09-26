@@ -72,7 +72,6 @@
 │   │   └── video
 │   │       └── creators
 │   │           ├── exurb1a.yt
-│   │           ├── premature_abstraction.yt
 │   │           ├── kai_lentit.yt
 │   │           ├── soirilab.yt
 │   │           ├── contrapoints.yt
