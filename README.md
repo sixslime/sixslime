@@ -70,12 +70,13 @@
 │   │   │       ├── darci.artm
 │   │   │       └── future.artm
 │   │   └── video
-│   │       └── creator_shoutouts
+│   │       └── creators
 │   │           ├── exurb1a.yt
-│   │           ├── contrapoints.yt
-│   │           ├── philosophy_tube.yt
+│   │           ├── premature_abstraction.yt
+│   │           ├── kai_lentit.yt
 │   │           ├── soirilab.yt
-│   │           └── kurosai.yt
+│   │           ├── contrapoints.yt
+│   │           └── philosophy_tube.yt
 │   └── irl
 │       ├── i_drive.real
 │       ├── playing_cards.objgroup
