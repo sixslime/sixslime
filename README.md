@@ -56,16 +56,17 @@
 │   │   │           └── unbeatable.game
 │   │   ├── music
 │   │   │   ├── genres
-│   │   │   │   ├── trap.genre
-│   │   │   │   ├── hard_edm.genre
-│   │   │   │   ├── alt_electronic.genre
+│   │   │   │   ├── hybrid_trap.genre
+│   │   │   │   ├── bass.genre
+│   │   │   │   ├── alt_edm.genre
+│   │   │   │   ├── hyperpop.genre
 │   │   │   │   └── hip_hop.genre
 │   │   │   └── artists
 │   │   │       ├── isoxo.artm
 │   │   │       ├── knock2.artm
-│   │   │       ├── 4ura.artm
-│   │   │       ├── reek_wobs.artm
-│   │   │       ├── s3rl.artm
+│   │   │       ├── vaultd.artm
+│   │   │       ├── six28.artm
+│   │   │       ├── issbrokie.artm
 │   │   │       ├── darci.artm
 │   │   │       └── future.artm
 │   │   └── video
