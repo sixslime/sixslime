@@ -89,3 +89,5 @@
     ├── trans_rights.id
     ├── go_harder.id
     └── or_die_trying.id
+```
+> See [SixSlimeMC](https://github.com/sixslimemc) for Minecraft-related projects.
