@@ -15,6 +15,17 @@
 │   ├── software_tooling.focus
 │   ├── dx.focus
 │   └── game_design.focus
+├── environment
+│   ├── languages
+│   │   ├── csharp.plng
+│   │   ├── mcfunction.plng
+│   │   ├── rust.plng
+│   │   └── python.plng
+│   ├── windows.os
+│   ├── nu.shell
+│   ├── powertoys.exe
+│   ├── visual_studio.ide
+│   └── vscode.editor
 ├── interests
 │   ├── media
 │   │   ├── games
@@ -71,17 +82,6 @@
 │       ├── black.color
 │       ├── hexagon.shape
 │       └── techwear.clot
-├── environment
-│   ├── languages
-│   │   ├── csharp.plng
-│   │   ├── mcfunction.plng
-│   │   ├── rust.plng
-│   │   └── python.plng
-│   ├── windows.os
-│   ├── nu.shell
-│   ├── powertoys.exe
-│   ├── visual_studio.ide
-│   └── vscode.editor
 └── id
     ├── neurodiversity.id
     ├── trans_rights.id
