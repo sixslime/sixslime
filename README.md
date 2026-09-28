@@ -89,4 +89,4 @@
     ├── go_harder.id
     └── or_die_trying.id
 ```
-> See [SixSlimeMC](https://github.com/sixslimemc) for my Minecraft-related projects.
+> [SixSlimeMC](https://github.com/sixslimemc) is my identity for Minecraft-related projects.
