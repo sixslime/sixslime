@@ -18,7 +18,6 @@
 ├── environment
 │   ├── languages
 │   │   ├── csharp.plng
-│   │   ├── mcfunction.plng
 │   │   ├── rust.plng
 │   │   └── python.plng
 │   ├── windows.os
