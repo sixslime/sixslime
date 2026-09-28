@@ -18,8 +18,8 @@
 ├── environment
 │   ├── languages
 │   │   ├── csharp.plng
-│   │   ├── rust.plng
-│   │   └── python.plng
+│   │   ├── python.plng
+│   │   └── rust.plng
 │   ├── windows.os
 │   ├── nu.shell
 │   ├── powertoys.exe
